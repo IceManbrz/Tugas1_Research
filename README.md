@@ -1,18 +1,75 @@
-# Tugas1_Research
+TUGAS 1
+Dapat di akses pada file :
+Tugas1_20081010194_Achareeya Wicaksa Putra Pribadi.pdf
 
-Judul Topik : Pengenalan bahasa isyarat dengan menggunakan teknik augmentasi gambar menggunakan deep learning.
+TUGAS 2
+Dapat di akses pada file :
+Tugas2_20081010194_Achareeya Wicaksa Putra Pribadi.pdf
 
-Jurnal Pendukung :
-1. https://ieeexplore.ieee.org/document/10097660 
-2. https://ieeexplore.ieee.org/document/10012305
+TUGAS 3
+Dapat di akses pada file :
+Tugas3_20081010194_Achareeya Wicaksa Putra Pribadi.pdf
 
-   Ringkasan Topik : Bahasa isyarat memiliki peran krusial dalam memungkinkan komunikasi bagi orang bisu, memengaruhi tidak hanya individu tetapi juga inklusi sosial komunitas mereka. Tantangan utama dalam penggunaan bahasa isyarat adalah akurasi pengenalan gestur tangan yang kompleks dan bervariasi. Meskipun upaya menggunakan deep learning telah dilakukan, tingkat akurasi masih menjadi isu utama. Oleh karena itu, penelitian ini mengusulkan penggunaan teknik augmentasi gambar dengan deep learning untuk meningkatkan akurasi pengenalan bahasa isyarat. Metode ini diharapkan dapat mengatasi variasi kompleks dalam bahasa isyarat, dengan fokus pada jenis augmentasi gambar yang efektif. Penelitian ini berkontribusi terhadap pengembangan sistem pengenalan bahasa isyarat yang lebih canggih, memberikan dampak positif pada komunikasi dan aksesibilitas bagi orang bisu. Metodologi penelitian mencakup studi literatur, pengumpulan dataset, analisis awal, perancangan sistem, implementasi, uji coba, dan penarikan kesimpulan. Penelitian ini penting karena mengisi gap penelitian terkait akurasi dalam pengenalan bahasa isyarat, mempertimbangkan penggunaan teknik augmentasi gambar dengan deep learning.
+TUGAS 4
+Dapat di akses pada file :
+Tugas4_20081010194_Achareeya Wicaksa Putra Pribadi.pdf
 
-   Tinjauan Pustaka
+TUGAS 5
+Dapat di akses pada file :
+data_pengangguran.csv
+Prediksi_Pengangguran_Buku-Oke.ipynb
 
-  1 . Jurnal penelitian ini mengusulkan sistem efisien untuk pengenalan gambar isyarat tangan menggunakan teknik pemrosesan gambar canggih. Sistem ini mencakup deteksi warna kulit, operasi morfologi, teknik Heuristic Manta-ray Foraging Optimization (HMFO) untuk pemilihan fitur, dan Adaptive Extreme Learning Machine (AELM) untuk klasifikasi. Tujuannya adalah meningkatkan akurasi dan mengurangi hasil positif palsu serta tingkat kesalahan dibandingkan dengan pendekatan konvensional. Komponen utama sistem ini melibatkan segmentasi gambar isyarat tangan, ekstraksi fitur dengan teknik seperti SIFT dan SURF, klasifikasi menggunakan berbagai algoritma termasuk CNN, GMM, dan HMM, dan pengenalan untuk mengaitkan isyarat dengan tindakan tertentu dalam aplikasi. Sistem ini berfokus pada isolasi isyarat tangan dari latar belakang untuk mengurangi gangguan potensial dan menggunakan fitur yang relevan untuk meningkatkan akurasi klasifikasi. Kelebihan dan kelemahan dari beberapa karya terkait juga dibahas, termasuk pendekatan berbasis pembelajaran mesin, teknik HMFO dan ELM, optimasi CNN, klasifikasi berbasis deret waktu, dan pengenalan gambar isyarat tangan 3D menggunakan CNN.
+PROPOSAL
+Dapat di akses pada file :
+Proposal_20081010194_Achareeya Wicaksa Putra Pribadi.pdf
 
-  2 . Jurnal ini memperkenalkan Model Deep Learning Umum yang Berbasis Grafik dengan Perhatian Multi-Cabang untuk pengenalan gerakan tangan dinamis menggunakan dataset rangka. Model ini menggabungkan fitur spasial-temporal, temporal-spasial, dan deep learning umum untuk meningkatkan akurasi. Hasil eksperimen menunjukkan bahwa model yang diusulkan memiliki kinerja yang lebih baik dibandingkan metode yang ada dalam hal akurasi dan biaya komputasi. Model tersebut mengubah koordinat sendi tangan menjadi tensor yang memberi makan jaringan saraf, memungkinkan ekstraksi fitur dan pengenalan yang lebih akurat. Penggunaan mekanisme perhatian membantu fokus pada informasi spasial dan temporal yang relevan, yang lebih meningkatkan kinerjanya. Model ini mengatasi keterbatasan metode sebelumnya yang lebih fokus pada deskriptor fitur dan pembelajaran mesin tradisional. Dengan memanfaatkan deep learning, mekanisme perhatian, dan representasi berbasis grafik dari rangkaian tangan, model ini mencapai akurasi yang lebih tinggi dalam pengenalan gerakan tangan dinamis. Cabang-cabang jaringan saraf, spasial-temporal, temporal-spatial, dan deep learning umum bekerja bersama untuk mengekstrak dan menggunakan informasi spasial, temporal, dan umum dari rangkaian tangan, memungkinkan pengenalan yang akurat dari gerakan tangan dinamis hanya dengan menggunakan informasi rangkaian tangan 3D.
+METODOLOGI
+Dapat di akses pada file :
+Metodologi Penelitian_20081010194_Achareeya Wicaksa Putra Pribadi.pdf
+
+REFERENSI
+Dapat di akses pada file :
+REFERENSI_20081010194_Achareeya Wicaksa Putra Pribadi.pdf
+
+CODING
+Dapat di akses pada file :
+datacollection.py
+dataset.py
+handgest_1data-0000-of-00001
+handgest_1.index
+handgest_1.meta
+predictgest.py
+traingest.py
+Testdata.zip
+Traindata.zip
+
+DATASET
+Dapat di akses pada file :
+dataset.py
+handgest_1data-0000-of-00001
+handgest_1.index
+handgest_1.meta
+gambar dataset.png
+Testdata.zip
+Traindata.zip
+
+GAMBAR PENDUKUNG
+Dapat di akses pada file :
+gambar dataset.png
+Proses Training.png
+File Datacollection.png
+File Predictgest.png
+File Traingest.png
+Hasil.png
+File Dataset.png
+Arsitektur CNN.png
 
 
+METRIK PENGUJIAN
+Dapat di akses pada file :
+Metrik_Pengujian.py
+
+DRAFT PAPER PUBLIKASI
+Dapat di akses pada file :
+Draft Paper Publikasi_20081010194_Achareeya Wicaksa Putra Pribadi.pdf
 
